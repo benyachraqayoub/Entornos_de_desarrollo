@@ -1,7 +1,7 @@
 
 # 🛠️ Entornos de Desarrollo
 
-Este repositorio contiene todas las prácticas, proyectos y ejercicios realizados durante el módulo de **Entornos de Desarrollo** correspondiente a mis estudios en [Nombre de tu Ciclo Formativo, ej: DAW / DAM / ASIR].
+Este repositorio contiene todas las prácticas, proyectos y ejercicios realizados durante el módulo de **Entornos de Desarrollo** correspondiente a mis estudios en **Desarrollo de Aplicaciones Web (DAW)**:
 
 El objetivo de este módulo es dominar las herramientas esenciales para el desarrollo de software profesional, la gestión de versiones, la optimización de código y las pruebas de software.
 
@@ -16,14 +16,6 @@ El objetivo de este módulo es dominar las herramientas esenciales para el desar
 
 * **Lenguajes:** Java, Markdown
 * **Herramientas de Git:** Git, GitHub
-* **IDEs:** IntelliJ IDEA / Eclipse
-* **Automatización & Testing:** Maven, JUnit 5
+* **IDEs:** IntelliJ IDEA / VS CODE
 
-## 📋 Cómo Ejecutar las Prácticas
 
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com
-   ```
-2. Abre el proyecto en tu IDE favorito (se recomienda IntelliJ IDEA).
-3. Importa el proyecto como un proyecto Maven si estás ejecutando el bloque de pruebas u optimización.
