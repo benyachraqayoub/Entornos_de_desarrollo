@@ -1,0 +1,23 @@
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java / Maven / Gradle
+target/
+build/
+out/
+.gradle/
+*.class
+*.log
+
+# Node
+node_modules/
+
+# Generic
+*.tmp
+*.bak
