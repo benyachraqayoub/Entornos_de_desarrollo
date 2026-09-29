@@ -38,11 +38,6 @@ Este bloque contiene las bases teóricas e introductorias del desarrollo de soft
 ### 🔄 Dinámicas de Aula (`/dinamicas`)
 *   **[Dinámica de la Especificación Ambigua](./dinamicas/Entornos_Dinamica_Figuras.pdf):** Recurso visual de la actividad práctica orientada a la ingeniería de requisitos. Demuestra cómo una especificación puramente verbal sin métricas claras provoca errores de interpretación en el equipo de desarrollo al modelar interfaces o componentes abstractos.
 
----
-
-## 🔲 3. Próximos Pasos
-*   [ ] Completar los cuestionarios de autoevaluación interactiva sobre traducción de lenguajes.
-*   [ ] Subir esquemas gráficos comparativos de la ejecución en Máquinas Virtuales (JVM).
 
 ---
 🔙 [Volver al Índice General del Portafolio](../README.md)
