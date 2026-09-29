@@ -32,6 +32,8 @@ Este bloque contiene las bases teóricas e introductorias del desarrollo de soft
 *   **[Taller: El Diario del Proyecto (Solución)](./Tareas/diario-proyecto-solucion.md):** Resolución y mapeo de los eventos del diario con las fases del ciclo de vida del software, deduciendo el uso de modelos de cascada con realimentación.
 *   **[Taller: ¿Qué modelo elijo? (Enunciado)](./Tareas/que-modelo-elijo-enunciado.md):** Hoja de instrucciones para la evaluación y selección de arquitecturas de ciclo de vida para 5 proyectos empresariales distintos.
 *   **[Taller: ¿Qué modelo elijo? (Solución)](./Tareas/que-modelo-elijo-solucion.md):** Resolución analítica justificando la selección de modelos (Cascada, Prototipos, Espiral e Incremental) y un análisis crítico sobre el caso de estudio que presenta ambigüedad por volatilidad de sector a largo plazo.
+*   **[Taller: Lenguajes y Técnicas (Enunciado)](./Tareas/lenguajes-tecnicas-enunciado.md):** Enunciado de la actividad sobre lenguajes de programación y técnicas de traducción.
+*   **[Taller: Lenguajes y Técnicas (Solución)](./Tareas/lenguajes-tecnicas-solucion.md):** Solución del taller sobre lenguajes de programación y técnicas de traducción.
 
 ### 🔄 Dinámicas de Aula (`/dinamicas`)
 *   **[Dinámica de la Especificación Ambigua](./dinamicas/Entornos_Dinamica_Figuras.pdf):** Recurso visual de la actividad práctica orientada a la ingeniería de requisitos. Demuestra cómo una especificación puramente verbal sin métricas claras provoca errores de interpretación en el equipo de desarrollo al modelar interfaces o componentes abstractos.
