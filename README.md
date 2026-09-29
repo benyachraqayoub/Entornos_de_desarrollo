@@ -1,49 +1,45 @@
-# 🛠️ Entornos de Desarrollo — DAW
+# Entornos de Desarrollo y Programación — 1.º DAW
 
-[![Curso: Entornos de Desarrollo](https://img.shields.io/badge/Curso-Entornos%20de%20Desarrollo-0A66C2?style=for-the-badge&logo=bookstack&logoColor=white)](./01-introduccion-software/)
-[![IDE: Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#entorno-y-herramientas-de-trabajo)
-[![Version Control: Git](https://img.shields.io/badge/Version%20Control-Git%20%2B%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)](./02-control-de-versiones/)
+[![Curso: DAW](https://img.shields.io/badge/Curso-1%C2%BA%20DAW-0A66C2?style=for-the-badge&logo=bookstack&logoColor=white)](./1_evaluacion/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="28" />](#entorno-y-herramientas) [![IDE: Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=for-the-badge)](#entorno-y-herramientas)
+[![Control de versiones: Git](https://img.shields.io/badge/Control%20de%20versiones-Git%20%2B%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)](./2_evaluacion/modulo6-codigo-limpio/tema7-control-versiones/)
 
-¡Hola! Bienvenido a mi repositorio portafolio para el módulo profesional de **Entornos de Desarrollo** del ciclo formativo de Grado Superior en **Desarrollo de Aplicaciones Web (DAW)**. 
+Portafolio académico del módulo de **Entornos de Desarrollo** del ciclo formativo de **Desarrollo de Aplicaciones Web (DAW)**. Los contenidos están organizados según las tres evaluaciones del curso.
 
-Este espacio está estructurado de manera progresiva siguiendo los bloques oficiales del currículo académico. Aquí organizo apuntes técnicos, cuestionarios de autoevaluación, diagramas de arquitectura de software y suites de pruebas automatizadas.
+## Planificación del curso
 
----
+### [1.ª evaluación](./1_evaluacion/README.md)
 
-## 🗺️ Mapa Estructural del Repositorio
+- [Tema 1: Desarrollo de Software](./1_evaluacion/tema1-desarrollo-software/README.md): cuestionarios, dinámicas, esquemas y tareas.
+- [Tema 2: Entorno de Desarrollo](./1_evaluacion/tema2-entorno-desarrollo/README.md).
+- [Tema 3: Aplicaciones de Escritorio](./1_evaluacion/tema3-aplicaciones-escritorio/README.md).
 
-### [01. Introducción al Desarrollo de Software](./01-introduccion-software/)
-* Fundamentos teóricos del ciclo de vida del software (SDLC).
-* Clasificación y tipos de software (Sistema, Aplicación, Desarrollo).
-* Análisis de metodologías de desarrollo y dinámicas de especificación técnica.
+### [2.ª evaluación](./2_evaluacion/README.md)
 
-### [02. Control de Versiones](./02-control-de-versiones/)
-* Laboratorios prácticos de flujos de trabajo locales y remotos con Git y GitHub.
-* Estrategias avanzadas de ramificación (Branching), fusión (Merging) y resolución de conflictos.
-* Guías rápidas y colecciones de comandos esenciales de consola.
+- [Módulo 4: De la Idea al Código](./2_evaluacion/modulo4-idea-al-codigo/README.md).
+- [Módulo 5: De la Matriz a la Interfaz](./2_evaluacion/modulo5-matriz-a-interfaz/README.md).
+- [Módulo 6: Código Limpio](./2_evaluacion/modulo6-codigo-limpio/README.md):
+  - [Tema 6: Refactorización](./2_evaluacion/modulo6-codigo-limpio/tema6-refactorizacion/README.md).
+  - [Tema 7: Control de Versiones](./2_evaluacion/modulo6-codigo-limpio/tema7-control-versiones/README.md).
 
-### [03. Diseño de Software y Modelado (UML)](./03-diseno-software-uml/)
-* Diagramación estructural y del comportamiento de sistemas.
-* Modelos visuales: Diagramas de Casos de Uso y Diagramas de Clases orientadas a objetos.
+### [3.ª evaluación](./3_evaluacion/README.md)
 
-### [04. Pruebas y Refactorización](./04-pruebas-y-refactorizacion/)
-* Automatización de pruebas de software (Pruebas Unitarias y de Integración con JUnit).
-* Técnicas de refactorización de código fuente, optimización y eliminación de deuda técnica.
+- [Tema 8: Colecciones, Texto y Fechas](./3_evaluacion/tema8-colecciones-texto-fechas/README.md).
+- [Tema 9: Manejo de Ficheros](./3_evaluacion/tema9-manejo-ficheros/README.md).
+- [Tema 10: UML](./3_evaluacion/tema10-uml/README.md).
+- [Tema 11: Bases de Datos](./3_evaluacion/tema11-bases-datos/README.md).
 
-### [05. Documentación de Software](./05-documentacion-software/)
-* Procesos de generación automática de documentación técnica (Javadoc).
-* Elaboración de manuales de usuario y guías técnicas de despliegue.
+## Entorno y herramientas
 
----
-
-## 💻 Entorno y Herramientas de Trabajo
-* **Sistema Operativo Base:** Windows 11 / Linux Core
-* **Editor de Código Principal:** Visual Studio Code (VS Code)
-* **Control de Versiones:** Git Core Engine v2+
-* **Stack Tecnológico Inicial:** HTML5, CSS3, Java Virtual Machine (JVM)
+- **Sistema operativo:** Windows / Linux
+- **IDE:** Visual Studio Code / IntelliJ IDEA
+- **Control de versiones:** Git y GitHub
+- **Tecnologías:** Java, HTML y CSS
 
 ---
-*Repositorio académico mantenido por **Ayoub** — Estudiante de Desarrollo de Aplicaciones Web.*
+
+Repositorio académico mantenido por **Ayoub**, estudiante de Desarrollo de Aplicaciones Web.
+
 ---
 
 [🏠 Volver al Perfil de GitHub](https://github.com/benyachraqayoub)
