@@ -44,4 +44,6 @@ Este espacio está estructurado de manera progresiva siguiendo los bloques ofici
 
 ---
 *Repositorio académico mantenido por **Ayoub** — Estudiante de Desarrollo de Aplicaciones Web.*
+---
+
 [🏠 Volver al Perfil de GitHub](https://github.com/benyachraqayoub)
