@@ -34,7 +34,8 @@ Este bloque contiene las bases teóricas e introductorias del desarrollo de soft
 *   **[Taller: ¿Qué modelo elijo? (Solución)](./tareas/que-modelo-elijo-solucion.md):** Resolución analítica justificando la selección de modelos (Cascada, Prototipos, Espiral e Incremental) y un análisis crítico sobre el caso de estudio que presenta ambigüedad por volatilidad de sector a largo plazo.
 *   **[Taller: Lenguajes y Técnicas (Enunciado)](./tareas/lenguajes-tecnicas-enunciado.md):** Enunciado de la actividad sobre lenguajes de programación y técnicas de traducción.
 *   **[Taller: Lenguajes y Técnicas (Solución)](./tareas/lenguajes-tecnicas-solucion.md):** Solución del taller sobre lenguajes de programación y técnicas de traducción.
-
+*   **[Tarea de repaso: Desarrollo_de_Software (Enunciado)](./tareas/tarea_repaso_Tema_1-enunciado.md):** Enunciado de la tarea de repaso · TEMA 1 · Desarrollo de software
+*   **[Tarea de repaso: Desarrollo_de_Software (Solución)](./tareas/tarea_repaso_Tema_1-solucion.md):** Solución de la tarea de repaso · TEMA 1 · Desarrollo de software
 ### 🔄 Dinámicas de Aula (`/dinamicas`)
 *   **[Dinámica de la Especificación Ambigua](./dinamicas/Entornos_Dinamica_Figuras.pdf):** Recurso visual de la actividad práctica orientada a la ingeniería de requisitos. Demuestra cómo una especificación puramente verbal sin métricas claras provoca errores de interpretación en el equipo de desarrollo al modelar interfaces o componentes abstractos.
 
