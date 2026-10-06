@@ -15,11 +15,11 @@ Este bloque contiene las bases teóricas e introductorias del desarrollo de soft
 ## 📚 1. Material del Temario (Teoría)
 
 *   **[📄 ED_Tema1_Desarrollo_de_Software.pdf](./ED_Tema1_Desarrollo_de_Software.pdf):** Presentación oficial y dossier conceptual del Tema 1. Este documento sirve como marco teórico del bloque y cubre los siguientes pilares de la ingeniería de software:
-    *   **Bloque 1:** Concepto de software, componentes (datos, programas, documentación) y factores de calidad.
-    *   **Bloque 2:** El Ciclo de Vida del Software (SDLC) y sus 7 fases (Análisis, Diseño, Codificación, Pruebas, Explotación, Mantenimiento, Documentación).
-    *   **Bloque 3:** Modelos de Ciclo de Vida (Cascada, Lineal con realimentación, Lineal fijando fechas, Espiral, Prototivado e Incremental).
-    *   **Bloque 4:** Lenguajes de programación, tipos de código (fuente, objeto, máquina) y el funcionamiento de traductores (Compiladores, Intérpretes y Máquinas Virtuales/Bytecode).
-    *   **Bloque 5:** Tipos de software comercial y del sistema.
+    *   **Bloque 1:** Tipos de software (sistema, desarrollo y aplicación) y su relación e intermediación con el hardware.
+    *   **Bloque 2:** Las siete fases del desarrollo, desde el análisis de requisitos (documento ERS) hasta el mantenimiento.
+    *   **Bloque 3:** Modelos de ciclo de vida del software (cascada, cascada con realimentación, iterativo incremental y espiral).
+    *   **Bloque 4:** Lenguajes de programación, su evolución y las técnicas de programación estructurada y orientada a objetos (POO).
+    *   **Bloque 5:** Herramientas de apoyo al desarrollo, detallando el funcionamiento de los frameworks y los entornos de ejecución.
 
 ---
 
