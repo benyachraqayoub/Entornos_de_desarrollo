@@ -10,8 +10,8 @@ Portafolio académico del módulo de **Entornos de Desarrollo** del ciclo format
 
 ### [1.ª evaluación](./1_evaluacion/README.md)
 
-- [Tema 1: Desarrollo de Software](./1_evaluacion/tema1-desarrollo-software/README.md): cuestionarios, dinámicas, esquemas y tareas.
-- [Tema 2: Entorno de Desarrollo](./1_evaluacion/tema2-entorno-desarrollo/README.md).
+- [Tema 1: Desarrollo de Software](./1_evaluacion/tema1-desarrollo-software/README.md): tipos de software, fases y modelos del ciclo de vida, lenguajes de programación, frameworks y entornos de ejecución; incluye cuestionarios, dinámicas y tareas.
+- [Tema 2: Entorno de Desarrollo](./1_evaluacion/tema2-entorno-desarrollo/README.md): componentes y funciones de los IDE, como la edición de código, la detección de errores, la depuración, la refactorización y la gestión de extensiones.
 - [Tema 3: Aplicaciones de Escritorio](./1_evaluacion/tema3-aplicaciones-escritorio/README.md).
 
 ### [2.ª evaluación](./2_evaluacion/README.md)
