@@ -20,6 +20,8 @@ Este tema estudia los entornos de desarrollo integrados (IDE), sus componentes y
 ### 📑 Entregables y Tareas (`/tareas`)
 * **[Taller: Exploración de las funciones de un IDE (Enunciado)](./tareas/funciones-del-ide-enunciado.md):** Actividad práctica para explorar las funciones de Visual Studio Code y relacionarlas con los conceptos del dossier.
 * **[Taller: Exploración de las funciones de un IDE (Soluciones)](./tareas/funciones-del-ide-soluciones.md):** Respuestas de referencia acompañadas de las capturas de cada paso de la práctica.
+* **[Manos a la obra: instalar Visual Studio Community (Enunciado)](./tareas/instalar-visual-studio-enunciado.md):** Actividad para instalar Visual Studio Community o auditar una instalación existente y documentar sus módulos.
+* **[Manos a la obra: instalar Visual Studio (Soluciones)](./tareas/instalar-visual-studio-soluciones.md):** Respuestas de referencia y criterios para completar los datos que dependen del equipo.
 
 ---
 
