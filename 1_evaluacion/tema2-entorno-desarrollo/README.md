@@ -21,7 +21,9 @@ Este tema estudia los entornos de desarrollo integrados (IDE), sus componentes y
 * **[Taller: Exploración de las funciones de un IDE (Enunciado)](./tareas/funciones-del-ide-enunciado.md):** Actividad práctica para explorar las funciones de Visual Studio Code y relacionarlas con los conceptos del dossier.
 * **[Taller: Exploración de las funciones de un IDE (Soluciones)](./tareas/funciones-del-ide-soluciones.md):** Respuestas de referencia acompañadas de las capturas de cada paso de la práctica.
 * **[Manos a la obra: instalar Visual Studio Community (Enunciado)](./tareas/instalar-visual-studio-enunciado.md):** Actividad para instalar Visual Studio Community o auditar una instalación existente y documentar sus módulos.
-* **[Manos a la obra: instalar Visual Studio (Soluciones)](./tareas/instalar-visual-studio-soluciones.md):** Respuestas de referencia y criterios para completar los datos que dependen del equipo.
+* **[Manos a la obra: instalar Visual Studio Community (Soluciones)](./tareas/instalar-visual-studio-soluciones.md):** Respuestas de referencia de la actividad de instalación o auditoría.
+* **[El comité de compras (Enunciado)](./tareas/comite-de-compras-enunciado.md):** Actividad para auditar decisiones sobre IDE, licencias, sistemas operativos y lenguajes.
+* **[El comité de compras (Soluciones)](./tareas/comite-de-compras-soluciones.md):** Acta auditada con correcciones y apartados de referencia del dossier.
 
 ---
 
